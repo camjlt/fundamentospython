@@ -1,6 +1,6 @@
 #################################################################3
 # datos los catetos de un triangulo rectangulo, calcular su hipoenusa.
-
+############################3#33#3
 
 
 #hipotenusa **2 =cateto1 ** 2 + cateto2 ** 2
