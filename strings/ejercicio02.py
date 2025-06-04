@@ -13,4 +13,4 @@ my_str_2 = input ('ingresa las primeras letras de la cadena anterior:')
 if my_str_1.starswith(my_str_2)
    print(f'"{my_str_1}" comienza con "{my_str_2}"')
 else:
-   print(f'"{my_str_1}" no comienza con "{my_str_2}"')
+   print(f'"{my_str_1}" no comienza con "{my_str_2}" ')
